@@ -46,7 +46,7 @@ img:hover {
   background-color: #dd4444;
 }
 .column {
-  display: block;
+  display: inline;
   width: 32.333%;
   vertical-align: middle;
 }
